@@ -1,5 +1,5 @@
 # WorldBackups
-A simple Windows script to copy a folder into another folder with a double-click
+A simple Windows script designed to help you backup Minecraft worlds
 
 ## Usage
 
