@@ -6,8 +6,8 @@ REM @var world_directory The world you want to backup
 REM @var world_backups_directory The directory you want your backups to be stored at
 REM
 set world_name="UnMundoFeliz"
-set world_directory="C:\Users\BGM\AppData\Roaming\.minecraft\saves\BGM 1.0"
-set world_backups_directory="C:\Users\BGM\Desktop\destiny"
+set world_directory="Path\To\Your\World\Folder"
+set world_backups_directory="Path\To\The\Backups\Folder"
 REM
 
 echo.
